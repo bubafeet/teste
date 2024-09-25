@@ -9,3 +9,6 @@ Repositório para armazenar resumos do curso git e github da [Link](github.com/b
 - [Documento GitHub](docs-github.com)
 
 ## 📕 RESUMOS DAS AULAS
+
+- aula 1
+- aula 2
